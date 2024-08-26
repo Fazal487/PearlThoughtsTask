@@ -1,7 +1,7 @@
 Setup Instructions
 
 Node.js: This project requires Node.js to be installed on your system. You can download and install Node.js from the official website: https://nodejs.org/en/download/
-Clone the repository: Clone this repository to your local machine using Git: git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: Clone this repository to your local machine using Git: git clone https://github.com/Fazal487/PearlThoughtsTask.git
 Install dependencies: Navigate to the project directory and install the required dependencies using npm: npm install
 Run the script: Run the script using Node.js: node index.js (assuming the script is in a file named index.js)
 Assumptions
